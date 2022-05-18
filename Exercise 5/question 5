@@ -1,0 +1,19 @@
+# Create a database named college and create collection to list and insert some values to it.
+
+# write mongodb query to
+
+# 1. display name (fname, Iname) and mark of all female student in MCA department 
+# 2. display the details of student highest mark in the course MCA 
+# 3. display all male student who secure A+ grade
+
+# 4. dtplay the names of the top 3 students in mechanical dpt
+
+# 5. display details of female student (fname, Iname nark) who achieve mark more than 98 
+# 6. display the detalls of student whto secured mark morethan 80 but less than 90
+
+# 7. display the names of student whose name starts with B 
+# 8. diplay all students from kollam 
+# 9. diplay all student who does not belongs to neither kollan nor trivandrum
+
+# 10. display all female student who belongs to either kollam or trivandrum
+
